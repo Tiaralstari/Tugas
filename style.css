@@ -1,0 +1,17 @@
+body{
+    min-height: 3000px;
+}
+.jumbotron {
+    padding-toop: 2rem;
+    bacground-color:primary;
+}
+
+
+#projects {
+    padding-toop: 2rem;
+    bacground-color:primary;
+}
+
+section{
+    padding-toop: 5rem;
+}
