@@ -25,6 +25,48 @@
         <mxCell id="Wnwi0RdiG8u-hP21owqQ-19" value="Siswa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="220" width="110" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="Wnwi0RdiG8u-hP21owqQ-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wnwi0RdiG8u-hP21owqQ-19" target="Wnwi0RdiG8u-hP21owqQ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="410" as="sourcePoint" />
+            <mxPoint x="370" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wnwi0RdiG8u-hP21owqQ-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wnwi0RdiG8u-hP21owqQ-14" target="Wnwi0RdiG8u-hP21owqQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="510" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wnwi0RdiG8u-hP21owqQ-25" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wnwi0RdiG8u-hP21owqQ-15" target="Wnwi0RdiG8u-hP21owqQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="412" y="208" as="sourcePoint" />
+            <mxPoint x="520" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wnwi0RdiG8u-hP21owqQ-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Wnwi0RdiG8u-hP21owqQ-16" target="Wnwi0RdiG8u-hP21owqQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="290" as="sourcePoint" />
+            <mxPoint x="520" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wnwi0RdiG8u-hP21owqQ-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Wnwi0RdiG8u-hP21owqQ-17" target="Wnwi0RdiG8u-hP21owqQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="500" as="sourcePoint" />
+            <mxPoint x="520" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wnwi0RdiG8u-hP21owqQ-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Wnwi0RdiG8u-hP21owqQ-19" target="Wnwi0RdiG8u-hP21owqQ-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="300" as="sourcePoint" />
+            <mxPoint x="310" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wnwi0RdiG8u-hP21owqQ-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Wnwi0RdiG8u-hP21owqQ-19" target="Wnwi0RdiG8u-hP21owqQ-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="370" as="sourcePoint" />
+            <mxPoint x="312" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
